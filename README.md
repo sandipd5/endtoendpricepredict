@@ -1,4 +1,4 @@
-# end to end price predict
+# end to end price prediction
 
 ### Software And Tools Requirements
 
