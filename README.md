@@ -1,8 +1,8 @@
-# end to end price prediction
+# End to End price prediction
 
 ### Software And Tools Requirements
 
-1. [Github Account] (https://)
+1. [Github Account] 
 2. [VS Code IDE] 
 3. [GitCLI]
 
