@@ -36,8 +36,8 @@ This repository showcases an end-to-end machine learning project, from data anal
 Build and run with Docker:
 
 ```bash
-docker build -t ml-project .
-docker run -p 5000:5000 ml-project
+docker build -t 
+docker run -p 5000:5000 
 ```
 
 ## Contributing
