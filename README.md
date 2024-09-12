@@ -1,15 +1,49 @@
-# End to End price prediction
+# End-to-End Machine Learning Project
 
-### Software And Tools Requirements
+This repository showcases an end-to-end machine learning project, from data analysis to deployment.
 
-1. [Github Account] 
-2. [VS Code IDE] 
-3. [GitCLI]
+## Features
 
-Create a new environment 
+- Data analysis and preparation
+- Model training and evaluation
+- Flask web application
+- AWS deployment
+- Docker containerization
+- CI/CD with GitHub Actions
 
+## Quick Start
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/sandipd5/endtoendpricepredict.git
+   cd endtoendpricepredict
+   ```
+
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Run the app:
+   ```bash
+   python app.py
+   ```
+
+4. Visit `http://localhost:5000` in your browser.
+
+## Docker
+
+Build and run with Docker:
+
+```bash
+docker build -t ml-project .
+docker run -p 5000:5000 ml-project
 ```
 
-conda create -P venv python=3.9 -y
+## Contributing
 
-```
+Contributions welcome! Please fork the repository and submit a pull request.
+
+## License
+
+Licensed under the Apache License, Version 2.0 
